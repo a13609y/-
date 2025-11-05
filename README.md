@@ -1,1 +1,1 @@
-DOMAIN-KEYWORD,.
+host-keyword, ., proxy
